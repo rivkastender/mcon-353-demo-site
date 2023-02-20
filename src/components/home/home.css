@@ -1,17 +1,4 @@
-#logo{
-    width: 115px;
-    max-height: 115px;
-    opacity: .5;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    padding-right: 15px;
-  }
-  
-  .AppBar{
-  background-color: #f5f5ef;
-  }
-  
-  .Box{
+ .Box{
     padding-left: 8%;
     padding-right: 8%;
     padding-top: 45px;
