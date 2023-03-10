@@ -9,16 +9,7 @@ import { Chat } from "./components/chat/chat";
 
 function App() {
   const [todoState, todoDispatch] = useReducer(todoReducer, {
-    todos: [
-      {
-        title: "first",
-        isComplete: false,
-      },
-      {
-        title: "second",
-        isComplete: true,
-      },
-    ],
+    todos: [],
   });
 
   return (
