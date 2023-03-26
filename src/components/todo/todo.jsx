@@ -26,7 +26,7 @@ export const Todo = () => {
   };
 
   const addTodo = () => {
-    if (input != "") {
+    if (input !== "") {
       todoDispatch({
         type: TodoActions.ADD,
         todo: { title: input, isComplete: false },

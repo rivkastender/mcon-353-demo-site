@@ -1,17 +1,7 @@
-import * as React from 'react';
-import AppBar from '@mui/material/AppBar';
-import Box from '@mui/material/Box';
-import Toolbar from '@mui/material/Toolbar';
-import IconButton from '@mui/material/IconButton';
-import Typography from '@mui/material/Typography';
-import Menu from '@mui/material/Menu';
-import MenuIcon from '@mui/icons-material/Menu';
-import Container from '@mui/material/Container';
-import Avatar from '@mui/material/Avatar';
-import Button from '@mui/material/Button';
-import Tooltip from '@mui/material/Tooltip';
-import MenuItem from '@mui/material/MenuItem';
-import logo from "./../../initially_logo.png"
+import * as React from "react";
+import Box from "@mui/material/Box";
+import Typography from "@mui/material/Typography";
+import Button from "@mui/material/Button";
 import {
   Card,
   CardMedia,
@@ -113,7 +103,7 @@ function FormRow() {
         <Item>
           <Box>
             <Card variant="outlined">{card1}</Card>
-          </Box>{" "}
+          </Box>
         </Item>
       </Grid>
       <Grid item xs={4}>
@@ -135,10 +125,8 @@ function FormRow() {
 }
 
 export const Home = () => {
-
   return (
-      <>
-
+    <>
       <Card maxWidth="sm">
         <CardMedia
           sx={{ height: 425, opacity: 0.5 }}

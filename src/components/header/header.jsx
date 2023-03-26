@@ -104,7 +104,7 @@ export function Header() {
               ))}
             </Menu>
           </Box>
-          <img src={logo} id="logo" />
+          <img src={logo} id="logo" alt="logo" />
           <Typography
             noWrap
             component="a"
