@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.70d3f46e.css",
+    "main.js": "/my-app/static/js/main.64b985ac.js",
+    "static/js/787.5d944677.chunk.js": "/my-app/static/js/787.5d944677.chunk.js",
+    "static/media/background.jpg": "/my-app/static/media/background.7e3abdb4e67297f1bed8.jpg",
+    "static/media/initially_logo.png": "/my-app/static/media/initially_logo.10962674b3a0fd717efd.png",
+    "index.html": "/my-app/index.html",
+    "main.70d3f46e.css.map": "/my-app/static/css/main.70d3f46e.css.map",
+    "main.64b985ac.js.map": "/my-app/static/js/main.64b985ac.js.map",
+    "787.5d944677.chunk.js.map": "/my-app/static/js/787.5d944677.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70d3f46e.css",
+    "static/js/main.64b985ac.js"
+  ]
+}
