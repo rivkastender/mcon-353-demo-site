@@ -26,10 +26,4 @@ function App() {
   );
 }
 
-export const AppWithRouter = () => {
-  return (
-    <HashRouter>
-      <App />
-    </HashRouter>
-  );
-};
+export default App;
