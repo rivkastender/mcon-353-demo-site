@@ -272,6 +272,7 @@ export const Chat = () => {
             sx={{ width: 735, marginLeft: -4 }}
           />
           <Button
+            disabled={username === ""}
             sx={{
               border: ".25px solid black",
               marginRight: -4,
